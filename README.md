@@ -6,4 +6,4 @@ Usage:
 ```
 ![示例](https://github.com/gallopsec/SMART_PARK_ReadPasswd/blob/main/poc.png)
 ![示例](https://github.com/gallopsec/SMART_PARK_ReadPasswd/blob/main/test1.png)
-![示例](https://github.com/gallopsec/SMART_PARK_ReadPasswd/blob/main/test2.png)
+![示例](https://github.com/gallopsec/SMART_PARK_ReadPasswd/blob/main/test.png)
